@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## SNS
+[twitter](https://twitter.com/unaoya)
+[Github](https://github.com/unaoya)
 
-You can use the [editor on GitHub](https://github.com/unaoya/unaoya.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## blog
+[epsilon](http://unaoya-epsilon.hatenablog.com)
+日々の数学の記録
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[pi](http://unaoya-pi.hatenablog.com)
+主に数学に関して
 
-### Markdown
+[sigma](http://unaoya-sigma.hatenadiary.jp)
+主に統計に関して
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Math
+[数学のノート](https://unaoya.github.io/math_pdf)
+数学に関して勉強したことのまとめ
 
-```markdown
-Syntax highlighted code block
+[黒板の画像](https://unaoya.github.io/subeta)
+授業の黒板の画像
 
-# Header 1
-## Header 2
-### Header 3
+## papers
+A uniform bound for the order of monodromy, [Mathematical Research Letters](http://intlpress.com/site/pub/pages/journals/items/mrl/content/vols/0023/0003/a016/index.html), Volume 23 (2016), Number 3, Pages: 929 – 937
+Characteristic class and the ε-factor of an étale sheaf (with Enlin Yang and Yigeng Zhao), [arXiv](https://arxiv.org/abs/1701.02841)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/unaoya/unaoya.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## jobs
+[すうがくぶんか](http://sugakubunka.com)
+[成増塾](http://www.narimasujuku.net)
+[麻布学園](http://www.azabu-jh.ed.jp)
