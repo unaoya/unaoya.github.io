@@ -35,4 +35,4 @@ Characteristic class and the ε-factor of an étale sheaf (with Enlin Yang and Y
 [麻布学園](http://www.azabu-jh.ed.jp)
 
 ## event
-[数学について話す会](https://unaoya.github.io/event.md)
+[数学について話す会](https://unaoya.github.io/event.html)
