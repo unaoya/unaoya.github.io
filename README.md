@@ -19,6 +19,9 @@
 [数学のノート](https://unaoya.github.io/math_pdf)
 数学に関して勉強したことのまとめ
 
+[講演のスライド](https://speakerdeck.com/unaoya)
+イベントや勉強会などでの講演のスライド
+
 [黒板の画像](https://unaoya.github.io/subeta)
 授業の黒板の画像
 
