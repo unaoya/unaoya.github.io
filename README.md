@@ -1,5 +1,8 @@
 # 梅崎直也のページ
 
+## Youtube
+https://www.youtube.com/channel/UCtP2OI-4D_AHehTHSILwiSA?view_as=subscriber
+
 ## SNS
 [twitter](https://twitter.com/unaoya)
 
@@ -39,3 +42,5 @@ Characteristic class and the ε-factor of an étale sheaf (with Enlin Yang and Y
 
 ## event
 [数学について話す会](https://unaoya.github.io/event.html)
+
+[数物勉強会](https://note.mu/unaoya/n/n8f5c7c436a23)
