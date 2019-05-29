@@ -1,9 +1,8 @@
 # 梅崎直也のページ
 
-## Youtube
-https://www.youtube.com/channel/UCtP2OI-4D_AHehTHSILwiSA?view_as=subscriber
-
 ## SNS
+[Toutube](https://www.youtube.com/channel/UCtP2OI-4D_AHehTHSILwiSA?view_as=subscriber)
+
 [twitter](https://twitter.com/unaoya)
 
 [Github](https://github.com/unaoya)
