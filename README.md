@@ -7,6 +7,10 @@
 
 [Github](https://github.com/unaoya)
 
+[note](https://note.com/unaoya)
+
+[マシュマロ](https://marshmallow-qa.com/unaoya)
+
 ## blog
 [epsilon](http://unaoya-epsilon.hatenablog.com)
 日々の数学の記録
