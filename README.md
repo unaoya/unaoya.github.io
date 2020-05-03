@@ -11,19 +11,9 @@
 
 [マシュマロ](https://marshmallow-qa.com/unaoya)
 
-## blog
-[epsilon](http://unaoya-epsilon.hatenablog.com)
-日々の数学の記録
-
-[pi](http://unaoya-pi.hatenablog.com)
-主に数学に関して
-
-[sigma](http://unaoya-sigma.hatenadiary.jp)
-主に統計に関して
-
 ## Math
 [数学のノート](https://unaoya.github.io/math_pdf)
-数学に関して勉強したことのまとめ
+数学に関して勉強したことや解説したことのまとめ
 
 [講演のスライド](https://speakerdeck.com/unaoya)
 イベントや勉強会などでの講演のスライド
@@ -45,3 +35,14 @@ Characteristic class and the ε-factor of an étale sheaf (with Enlin Yang and Y
 [数物勉強会](https://note.mu/unaoya/n/n8f5c7c436a23)
 
 [数学ガール読書会](https://unaoya.github.io/mathgirl.html)
+
+## blog
+[epsilon](http://unaoya-epsilon.hatenablog.com)
+日々の数学の記録
+
+[pi](http://unaoya-pi.hatenablog.com)
+主に数学に関して
+
+[sigma](http://unaoya-sigma.hatenadiary.jp)
+主に統計に関して
+
