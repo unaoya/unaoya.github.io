@@ -24,7 +24,7 @@
 ## papers
 A uniform bound for the order of monodromy, [Mathematical Research Letters](http://intlpress.com/site/pub/pages/journals/items/mrl/content/vols/0023/0003/a016/index.html), Volume 23 (2016), Number 3, Pages: 929 – 937
 
-Characteristic class and the ε-factor of an étale sheaf (with Enlin Yang and Yigeng Zhao), [arXiv](https://arxiv.org/abs/1701.02841)
+Characteristic class and the ε-factor of an étale sheaf (with Enlin Yang and Yigeng Zhao), [Trans. Amer. Math. Soc.](https://www.ams.org/journals/tran/2020-373-10/S0002-9947-2020-08187-2/home.html) 373 (2020), 6887-6927, [arXiv](https://arxiv.org/abs/1701.02841)
 
 ## jobs
 [すうがくぶんか](http://sugakubunka.com)
